@@ -3,3 +3,5 @@ typing
 IPython
 langgraph
 langchain_openai
+pymongo
+langgraph.checkpoint.mongodb
